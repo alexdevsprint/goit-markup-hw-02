@@ -1,0 +1,43 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #434455;
+}
+
+h1 {
+  color: #fff;
+  font-size: 56px;
+}
+
+h2,
+h3 {
+  color: #2e2f42;
+}
+
+.solution {
+  background-color: #2e2f42;
+}
+.header .logo {
+  font-family: 'Raleway', sans-serif;
+  text-transform: uppercase;
+}
+.header ul {
+  list-style: none;
+}
+.header a {
+  text-decoration: none;
+  color: #2e2f42;
+}
+
+.header a:hover {
+  color: #404bbf;
+}
+.header .navigation li:active {
+  text-decoration: underline;
+  color: #404bbf;
+}
+
+.solution button {
+  color: #fff;
+  background-color: #4d5ae5;
+  cursor: pointer;
+}
